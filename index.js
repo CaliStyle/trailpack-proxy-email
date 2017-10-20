@@ -1,7 +1,6 @@
 'use strict'
 
 const Trailpack = require('trailpack')
-// const _ = require('lodash')
 const lib = require('./lib')
 
 module.exports = class ProxyEmailTrailpack extends Trailpack {
