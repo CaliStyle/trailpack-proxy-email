@@ -1,6 +1,6 @@
 {
   "name": "trailpack-proxy-email",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Emails - Trailpack for Proxy Engine",
   "homepage": "https://cali-style.com",
   "author": {
@@ -21,7 +21,7 @@
     "proxy-engine-errors": "^1.0.1",
     "striptags": "^3.1.0",
     "trailpack": "^2.0.0",
-    "trailpack-proxy-engine": "^2.0.0",
+    "trailpack-proxy-engine": "^2.1.0",
     "trailpack-router": "^2.1.0"
   },
   "devDependencies": {
