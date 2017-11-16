@@ -5,7 +5,7 @@
 [![Dependency Status][daviddm-image]][daviddm-url]
 [![Code Climate][codeclimate-image]][codeclimate-url]
 
-## An email template builder for Proxy Engine, built with love from [Cali-Style](https://cali-style.com)
+## An email template builder for Proxy Engine, built with love by your friends at  [Cali-Style](https://cali-style.com)
 
 Looking for [Proxy Engine?](https://github.com/calistyle/trailpack-proxy-engine)
 
@@ -35,7 +35,7 @@ module.exports = {
 ```
 
 ## Usage
-Many different modules in Proxy Engine will use an email to notify users. This composes the email.
+Many different modules in Proxy Engine will use an email to notify users. This composes the emails using either custom/ejs Templates, or Database emails.
 
 
 [npm-image]: https://img.shields.io/npm/v/trailpack-proxy-email.svg?style=flat-square
